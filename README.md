@@ -1,5 +1,5 @@
 # Automated-Hydroponics-System
-We made a system that sets ideal conditions for a plant to grow without the presence of the soil.
+A system that sets ideal conditions for a plant to grow without the presence of the soil.
 
 | Hydroponinator | Makeathon 4.0 | Lema Labs |
 
